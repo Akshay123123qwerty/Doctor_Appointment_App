@@ -20,8 +20,12 @@ Book appointments with real-time scheduling.
 
 ![Screenshot (519)](https://github.com/user-attachments/assets/3b565c0b-03b0-4ac3-96ea-e451d65b6895)
 
-Doctors based on Speciality
+<b>Doctors based on Speciality</b>
+
+
 ![Screenshot (520)](https://github.com/user-attachments/assets/b8a623e5-5c41-4ec6-8c1d-3caea2153b76)
 
-Appointment
+<b>Appointment</b>
+
+
 ![Screenshot (521)](https://github.com/user-attachments/assets/869bfbb9-cc54-4a25-9258-0fd6ccacf33b)
